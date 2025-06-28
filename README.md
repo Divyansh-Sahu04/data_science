@@ -1,2 +1,2 @@
 # data_science
-All ML Algorithms
+This repository contains all ML Algorithms that are used widely
